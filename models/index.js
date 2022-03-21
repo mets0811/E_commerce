@@ -1,6 +1,6 @@
 // import important parts of sequelize library
 const { Model, DataTypes } = require('sequelize');
-const sequelize = require('../conf/connection.js');
+const sequelize = require('../config/connection.js');
 
 
 class Product extends Model {}
