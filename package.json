@@ -11,14 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/mets0811/E_commerce.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Melissa Moreno",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
+  "homepage": "https://github.com/mets0811/E_commerc#readme",
   "dependencies": {
     "dotenv": "^8.6.0",
     "express": "^4.17.3",
