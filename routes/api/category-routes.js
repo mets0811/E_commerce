@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 
-
+// /api/categories
 
 router.get('/', (req, res) => {
 
